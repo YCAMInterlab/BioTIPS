@@ -1,6 +1,7 @@
 # シーケンシングする
-Rapid Sequencing (SQK-RAD004)  
-Version: RSE_9046_v1_revD_17Nov2017（Last Update: 18/12/2018）  
+> Oxford Nanopore Technologies  
+> Rapid Sequencing (SQK-RAD004)  
+> Version: RSE_9046_v1_revD_17Nov2017（Last Update: 18/12/2018）  
 
 
 ## 準備するもの
