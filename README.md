@@ -2,7 +2,7 @@
 BioTipsには、これまでYCAMバイオ・リサーチで取り組んできた実験のTipsを収録する予定です。
 
 ### 実験プロトコル
-- DNAシーケンシング（2018, YCAM InterLab Camp vol.3「パーソナル・バイオテクノロジー」）
+- 読み・書き・生命倫理（2018, YCAM InterLab Camp vol.3「パーソナル・バイオテクノロジー」）
 - 生活環境の微生物サンプリング（2017, MetaSUB: global City Sampling Day）
 - ゲノム編集 CRISPR-Cas9（2017, Genspace, New York）
 - 細胞培養（2016, オープンデイ vol.6「細胞と遺伝子」）
