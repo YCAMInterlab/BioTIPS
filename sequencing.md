@@ -3,7 +3,7 @@ Rapid Sequencing (SQK-RAD004)
 Version: RSE_9046_v1_revD_17Nov2017（Last Update: 18/12/2018）  
 
 
-### 準備するもの
+## 準備するもの
 
 #### 材料  
 - ~400ng 高分子量のゲノムDNA  
@@ -22,7 +22,7 @@ Version: RSE_9046_v1_revD_17Nov2017（Last Update: 18/12/2018）
 - マイクロピペットとピペットチップ（P2, P10, P20, P100, P1000）
 
 
-### 手順
+## 手順
 
 #### 1. DNAサンプルを準備します  
 
