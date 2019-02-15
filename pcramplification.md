@@ -1,5 +1,5 @@
 # PCRでDNAを増幅する
-> Phusion High-Fidelity PCR Master Mix with HF Buffer
+> [Phusion High-Fidelity PCR Master Mix with HF Buffer](https://www.nebj.jp/products/detail/1120)
 
 ## 概要
 
