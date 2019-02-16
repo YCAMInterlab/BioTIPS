@@ -1,11 +1,11 @@
 # シーケンシングする
   
-> Oxford Nanopore Technologies  
+> [Oxford Nanopore Technologies](https://nanoporetech.com)  
 > Rapid Sequencing (SQK-RAD004)  
 > Version: RSE_9046_v1_revD_17Nov2017（Last Update: 18/12/2018）  
 
 ## 概要
-
+- [ナノポアを利用したDNA/RNAシークエンシングの仕組み](https://nanoporetech.com/jp/how-it-works)
 
 ## 準備するもの
 
@@ -24,7 +24,7 @@
 - タイマー
 - サーマルサイクラー（30°Cと80°C）  
 - マイクロピペットとピペットチップ（P2, P10, P20, P100, P1000）
-- ナノポアDNAシーケンサー MinION
+- **MinION** ナノポアDNAシーケンサー
 - パーソナル・コンピュータ
 
 
