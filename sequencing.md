@@ -1,11 +1,12 @@
 # シーケンシングする
   
-> [Oxford Nanopore Technologies](https://nanoporetech.com)  
+> [Oxford Nanopore Technologies](https://nanoporetech.com/jp)  
 > Rapid Sequencing (SQK-RAD004)  
 > Version: RSE_9046_v1_revD_17Nov2017（Last Update: 18/12/2018）  
 
 ## 概要
 - [ナノポアを利用したDNA/RNAシークエンシングの仕組み](https://nanoporetech.com/jp/how-it-works)
+- [応用が期待されている分野（英語）](https://nanoporetech.com/applications)
 
 ## 準備するもの
 
