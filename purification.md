@@ -1,7 +1,7 @@
 # DNAを精製する
-> Beckman Coulter  
-> Agencourt AMPure XP プロトコル000387v001（日本語080609）
-
+> Beckman Coulter   
+> [Agencourt AMPure XP クイックマニュアル（日本語）](https://ls.beckmancoulter.co.jp/files/products/genomics/AMPureXP/QMJ_AMPureXP.pdf)  
+> [Agencourt AMPure XP: Instructions for Use (English)](https://www.beckmancoulter.com/wsrportal/techdocs?docname=B37419)
 
 ## 概要
 - AMPureXPは、独自のSPRI磁性ビーズ技術を用いた、PCR反応産物を精製するための試薬キットです
