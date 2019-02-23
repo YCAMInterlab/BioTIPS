@@ -1,5 +1,5 @@
 # DNAを定量する
-> [NanoDrop One ユーザーガイド](https://assets.thermofisher.com/TFS-Assets/CAD/manuals/3091-NanoDrop-One-User-Guide-v1.3-sw-JAPANESE.pdf)
+> [NanoDrop One ユーザーガイド（PDF）](https://assets.thermofisher.com/TFS-Assets/CAD/manuals/3091-NanoDrop-One-User-Guide-v1.3-sw-JAPANESE.pdf)
 
 ## 概要
 
