@@ -34,13 +34,6 @@
 
 ### 1. DNAサンプルを用意します  
   
-#### DNAの質、量、大きさを記録します
-- NanodropでDNAサンプルの「dsDNA」測定をします  
-- 精製水（溶出バッファー）**2μl** を台座に置き、ブランクとして測定します
-- 測定後、台座を拭きます
-- 続いて、精製後のDNAサンプル **2μl** を台座に置き、測定します
-- 拡散濃度（ng/μl）や純度比の値を確認し、記録します
-
 > **重要**：DNAサンプルの基準  
 > - Nanodropを使用して測定された純度：OD 260/280 of 1.8 and OD 260/230 of 2.0-2.2（[ユーザーガイド参照](https://assets.thermofisher.com/TFS-Assets/CAD/manuals/3091-NanoDrop-One-User-Guide-v1.3-sw-JAPANESE.pdf)）
 > - Qubitで測定した質量：〜400 ng
