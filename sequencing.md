@@ -1,4 +1,4 @@
-# シーケンシングする
+# DNAをシーケンシングする
   
 > [Oxford Nanopore Technologies](https://nanoporetech.com/jp)  
 > Rapid Sequencing (SQK-RAD004): [Protocol (English)](https://www.dropbox.com/s/ypqzhjno36x6x4f/rapid-sequencing-sqk-rad004-RSE_9046_v1_revD_17Nov2017.pdf?dl=0) & [Checklist (English)](https://www.dropbox.com/s/kvdrk2tprf24was/Rapid%20Sequencing%20%28SQK-RAD004%29.pdf?dl=0)  
