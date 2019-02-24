@@ -1,6 +1,6 @@
 # DNAを抽出する
 
-> [関東化学株式会社：シカジーニアス® DNAプレップキット（植物用）](https://products.kanto.co.jp/web/index.cgi?c=t_product_table&pk=487)  
+> [関東化学：シカジーニアス® DNAプレップキット（植物用）](https://products.kanto.co.jp/web/index.cgi?c=t_product_table&pk=487)  
 > このキットを基に、ワークショップ用のセットを準備しています
 
 ## 概要
@@ -59,6 +59,6 @@
 
 ## その他  
 対象にあわせて、さまざまなキットが販売されています
-- [関東化学株式会社：シカジーニアス® トータルDNAプレップキット（組織用）](https://products.kanto.co.jp/web/index.cgi?c=t_product_table&pk=486)  
+- [関東化学：シカジーニアス® トータルDNAプレップキット（組織用）](https://products.kanto.co.jp/web/index.cgi?c=t_product_table&pk=486)  
 - [ニッポン・ジーン：ISOIL（土壌からのDNA抽出キット）](http://nippongene.com/siyaku/product/extraction/isoil/isoil.html)  
 - [リーゾ：DNAすいすい（農産物、加工食品など抽出が難しい材料に特化したDNA抽出キット）](http://www.rizo.co.jp/DNA.html)  
