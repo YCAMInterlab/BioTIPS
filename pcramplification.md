@@ -1,4 +1,4 @@
-# PCRでDNAを増幅する
+# DNAをPCRで増幅する
 > [Phusion High-Fidelity PCR Master Mix with HF Buffer](https://www.nebj.jp/products/detail/1120)  
 > [Protocol (English)](https://international.neb.com/protocols/2012/09/06/protocol-phusion-high-fidelity-pcr-master-mix-with-hf-buffer-m0531)
 
