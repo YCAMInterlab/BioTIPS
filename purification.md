@@ -1,5 +1,4 @@
 # DNAを精製する
-> Beckman Coulter   
 > [Agencourt AMPure XP クイックマニュアル（日本語）](https://ls.beckmancoulter.co.jp/files/products/genomics/AMPureXP/QMJ_AMPureXP.pdf)  
 > [Agencourt AMPure XP: Instructions for Use (English)](https://www.beckmancoulter.com/wsrportal/techdocs?docname=B37419)
 
