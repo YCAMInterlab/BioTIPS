@@ -3,6 +3,7 @@
 > [Protocol (English)](https://international.neb.com/protocols/2012/09/06/protocol-phusion-high-fidelity-pcr-master-mix-with-hf-buffer-m0531)
 
 ## 概要
+- PCR（ポリメラーゼ連鎖反応）を用いて、特定のDNA断片だけを選択的に増幅させることができます
 
 ## 準備するもの
 
