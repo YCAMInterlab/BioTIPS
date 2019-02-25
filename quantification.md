@@ -3,6 +3,7 @@
 > [NanoDrop One User Guide (English, PDF)](http://tools.thermofisher.com/content/sfs/manuals/3091-NanoDrop-One-Help-UG-en.pdf)
 
 ## 概要
+- わずか1～2µLのサンプル量のDNA、RNA、タンパク質を数秒で定量できます
 
 ## 準備するもの
 - NanoDrop OneC 分光光度計
@@ -24,3 +25,8 @@
 7. 核酸濃度（ng/μl）や純度比の値を確認し、記録します
 8. サンプルの測定を終えたら、「実験終了」をタップします
 9. アームを上げ、新しい研究用ワイプで、上下の台座を掃除します
+
+## その他
+### その他の定量法
+- [Qubitフルオロメーター](https://www.thermofisher.com/jp/ja/home/industrial/spectroscopy-elemental-isotope-analysis/molecular-spectroscopy/fluorometers/qubit.html)
+  - [QubitフルオロメーターとNanoDrop吸光光度計の比較](https://www.thermofisher.com/jp/ja/home/industrial/spectroscopy-elemental-isotope-analysis/molecular-spectroscopy/fluorometers/qubit/qubit-fluorometer/qubit-vs-competitors.html)   
