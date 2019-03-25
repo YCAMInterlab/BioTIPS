@@ -2,11 +2,11 @@
 
 
 ### 読み
-- [DNAを抽出する](https://github.com/YCAMInterlab/BioTIPS/blob/master/extraction.md)
-- [DNAをPCRで増幅する](https://github.com/YCAMInterlab/BioTIPS/blob/master/pcramplification.md)
-- [DNAを精製する](https://github.com/YCAMInterlab/BioTIPS/blob/master/purification.md)
-- [DNAを定量する](https://github.com/YCAMInterlab/BioTIPS/blob/master/quantification.md)
-- [DNAをシーケンシングする](https://github.com/YCAMInterlab/BioTIPS/blob/master/sequencing.md)
+- [DNAを抽出する](https://github.com/YCAMInterlab/BioTIPS/blob/master/2018/extraction.md)
+- [DNAをPCRで増幅する](https://github.com/YCAMInterlab/BioTIPS/blob/master/2018/pcramplification.md)
+- [DNAを精製する](https://github.com/YCAMInterlab/BioTIPS/blob/master/2018/purification.md)
+- [DNAを定量する](https://github.com/YCAMInterlab/BioTIPS/blob/master/2018/quantification.md)
+- [DNAをシーケンシングする](https://github.com/YCAMInterlab/BioTIPS/blob/master/2018/sequencing.md)
   - DNAシーケンスサービスを利用する
 - DNA配列を解析する  
 
