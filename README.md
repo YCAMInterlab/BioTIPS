@@ -15,7 +15,7 @@ BioTipsには、これまでYCAMバイオ・リサーチで取り組んできた
 - Workshop: How to Make the Field Guide "DNA of Forests" (2016-)
 - Joint Project: "Genome Bento" (2016-)
 - International Consortium "MetaSUB" Global City Sampling Day (2017-)
-- InterLab Camp vol.3 "Personal Biotechnology" (2018-2019)
+- [InterLab Camp vol.3 "Personal Biotechnology" (2018-2019)](https://github.com/YCAMInterlab/BioTIPS/blob/master/2018/readme_en.md)
 
 
 #### ライセンスとクレジット
