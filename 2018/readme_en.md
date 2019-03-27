@@ -26,6 +26,7 @@
 - Group work
 
 ### References
+- [Press Release (PDF)](https://www.ycam.jp/asset/pdf/press-release/2018/ycam-interlab-camp-vol3_en.pdf)
 - [Field Guide "DNA of Forests"](https://special.ycam.jp/dna-of-forests/en/#/)    
 - [BioBuilder Program](https://biobuilder.org)    
   
