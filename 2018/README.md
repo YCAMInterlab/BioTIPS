@@ -25,6 +25,7 @@
 - グループでアイデアを出す
 
 ### 参考資料
+- [プレスリリース（PDF）](https://www.ycam.jp/asset/pdf/press-release/2018/ycam-interlab-camp-vol3.pdf)
 - YCAMバイオ・リサーチ
   - [「森のDNA図鑑」](https://special.ycam.jp/dna-of-forests/#/)
   - [「技術と芸術を横断するアートセンターYCAMの試み：メディアアートからバイオ・リサーチまで」（PDF）](https://www.dropbox.com/s/5xf02o9ovkz176g/2017%20%E6%8A%80%E8%A1%93%E3%81%A8%E8%8A%B8%E8%A1%93%E3%82%92%E6%A8%AA%E6%96%AD%E3%81%99%E3%82%8B%E3%82%A2%E3%83%BC%E3%83%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BCYCAM%E3%81%AE%E8%A9%A6%E3%81%BF.pdf?dl=0)
