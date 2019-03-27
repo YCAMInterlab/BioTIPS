@@ -9,7 +9,7 @@ YCAMバイオ・リサーチでは、近年飛躍的に発達するバイオテ�
 - [vol.3「森のDNA」](https://github.com/YCAMInterlab/BioTIPS/blob/master/2016/3_dnaoftheforest.md)  
 - [vol.4「ヒトと共生微生物」](https://github.com/YCAMInterlab/BioTIPS/blob/master/2016/4_manandsymbionts.md)  
 - [vol.5「生物とプログラミング」](https://github.com/YCAMInterlab/BioTIPS/blob/master/2016/5_organismsandprogramming.md)  
-- [vol.6「細胞と遺伝子」]()
+- [vol.6「細胞と遺伝子」](https://github.com/YCAMInterlab/BioTIPS/blob/master/2016/6_cellsandgenes.md)
 
 
 
