@@ -1,16 +1,22 @@
 ## BioTips
-BioTipsには、これまでYCAMバイオ・リサーチで取り組んできた実験のTipsを収録する予定です。
+BioTipsには、これまでYCAMバイオ・リサーチで取り組んできた調査・実験のTipsを収録する予定です。
 
-### 実験プロトコル
-- [読み・書き・生命倫理（2018, YCAM InterLab Camp vol.3「パーソナル・バイオテクノロジー」）](https://github.com/YCAMInterlab/BioTIPS/tree/master/2018)
-- 生活環境の微生物サンプリング（2017, MetaSUB: global City Sampling Day）
-- ゲノム編集 CRISPR-Cas9（2017, Genspace, New York）
-- 細胞培養（2016, オープンデイ vol.6「細胞と遺伝子」）
-- ゲノム弁当（2016, オープンデイ vol.5「生物とプログラミング」）
-- 16S メタゲノム解析（2016, オープンデイ vol.4「ヒトと共生微生物」）
-- DNAバーコーディング（2016, オープンデイ vol.3「森のDNA」）
-- 発酵微生物の観察（2016, オープンデイ vol.2「発酵とDIY」）
-- [野生酵母の採集・培養（2016, オープンデイ vol.1「パンと酵母」）《Open Yeast Protocols》](https://github.com/YCAMInterlab/OpenYeastProtocols/)
+### 企画
+- レクチャーシリーズ「アグリ・バイオ・キッチン ―『食べる』のリテラシー」（2015-2016）
+- バイオ・リサーチ・オープンデイ「キッチンからはじめるバイオ」（2016-2017）
+- ワークショップ「森のDNA図鑑」（2016-）
+- 共同プロジェクト「ゲノム弁当」（2016-）
+- 国際コンソーシアム「MetaSUB」グローバル・シティ・サインプリングデイ（2017-）
+- [インターラボ・キャンプ vol.3「パーソナル・バイオテクノロジー」（2018-2019）](https://github.com/YCAMInterlab/BioTIPS/tree/master/2018)
+
+### Events
+- Lecture series: Agri Bio Kitchen (2015-2016)
+- Bio Research Open Day "Biotechnology From Your Kitchen" (2016-2017)
+- Workshop: How to Make the Field Guide "DNA of Forests" (2016-)
+- Joint Project: "Genome Bento" (2016-)
+- International Consortium "MetaSUB" Global City Sampling Day (2017-)
+- InterLab Camp vol.3 "Personal Biotechnology" (2018-2019)
+
 
 #### ライセンスとクレジット
 <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" alt="クリエイティブ・コモンズ・ライセンス" src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
