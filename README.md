@@ -7,7 +7,6 @@ BioTipsには、これまでYCAMバイオ・リサーチで取り組んできた
   - [実験プロトコル「オープン・イースト・プロトコルズ」（2016-）](https://github.com/YCAMInterlab/OpenYeastProtocols)
   - ワークショップ「森のDNA図鑑」（2016-）
   - 共同プロジェクト「ゲノム弁当」（2016-）
-- 国際コンソーシアム「MetaSUB」グローバル・シティ・サインプリングデイ（2017-）
 - [インターラボ・キャンプ vol.3「パーソナル・バイオテクノロジー」（2018-2019）](https://github.com/YCAMInterlab/BioTIPS/tree/master/2018)
 
 ### Events
@@ -16,7 +15,6 @@ BioTipsには、これまでYCAMバイオ・リサーチで取り組んできた
   - Protocol: "Open Yeast Protocols" (2016-)
   - Workshop: How to Make the Field Guide "DNA of Forests" (2016-)
   - Joint Project: "Genome Bento" (2016-)
-- International Consortium "MetaSUB" Global City Sampling Day (2017-)
 - [InterLab Camp vol.3 "Personal Biotechnology" (2018-2019)](https://github.com/YCAMInterlab/BioTIPS/blob/master/2018/readme_en.md)
 
 
