@@ -42,6 +42,9 @@
   - [「BioRealityをめぐる生命美学的遍歴」（PDF）](https://www.dropbox.com/s/vbi1039xgsdihgi/%E5%B2%A9%E5%B4%8E2018_VR%E5%AD%A6%E4%BC%9A%E8%AA%8C23%283%297_12.pdf?dl=0)   
   - [ 「DIYバイオ」早稲田大学超域哲学研究会 配布資料（PDF）](https://www.dropbox.com/s/b7fixjctag458th/%E6%97%A9%E7%A8%B2%E7%94%B0%E5%A4%A7%E5%AD%A6%E8%B6%85%E5%9F%9F%E5%93%B2%E5%AD%A6%E7%A0%94%E7%A9%B6%E4%BC%9A20190121DIY%E3%83%90%E3%82%A4%E3%82%AAver2.pdf?dl=0)  
 
+### Reports
+- [Bento Lab (Blog), Published Mar 28, 2019](https://www.bento.bio/blog/2019/03/28/interlab-camp-personal-biotechnology-yamaguchi-japan/)
+
 #### License and credit
 <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" alt="クリエイティブ・コモンズ・ライセンス" src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
 <br />
