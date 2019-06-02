@@ -15,13 +15,13 @@
 #### 2018
 2019年3月1日〜3日／山口 [YCAM InterLab Camp vol.3「パーソナル・バイオテクノロジー」](https://www.ycam.jp/events/2019/ycam-interlab-camp-vol3/)  
 ゲノム弁当・ゲノムボウル（w/ ベジタブル喫茶 ToyToy）  
-- [ktym GitHub ゲノム弁当解読プロジェクト](https://github.com/ktym/GenomeBento/)
+[関連リンク：ktym GitHub ゲノム弁当解読プロジェクト](https://github.com/ktym/GenomeBento/)
   
   
 #### 2017
 2017年12月15日〜17日／山口 [YCAMオープンラボ 2017 「HELLO, YCAM!」](https://special.ycam.jp/openlab/2017/)  
-ゲノム弁当（w/ ベジタブル喫茶 ToyToy）
-- [ベジタブル喫茶 ToyToy ブログ](http://vegebeer.jugem.jp/?eid=991)  
+ゲノム弁当（w/ ベジタブル喫茶 ToyToy）  
+[関連リンク：ベジタブル喫茶 ToyToy ブログ](http://vegebeer.jugem.jp/?eid=991)  
 
   
 2017年8月25日〜27日／山口 YCAMポップアップショップ（YCAM 爆音映画祭2017）  
@@ -33,4 +33,4 @@
 #### 2016
 2016年12月10日〜11日／山口 [YCAMバイオ・リサーチ・オープンデイ vol.5 「生物とプログラミング」](https://www.ycam.jp/events/2016/ycam-bio-research-open-day-vol5/)   
 ゲノム弁当（w/ 津田多江子/YAMA KITCHEN、中谷敦子/CHEERS!）  
-- [TogoWiki GenomeBentoProject](https://wiki.lifesciencedb.jp/mw/GenomeBentoProject) 
+[関連リンク：TogoWiki GenomeBentoProject](https://wiki.lifesciencedb.jp/mw/GenomeBentoProject) 
