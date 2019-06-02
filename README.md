@@ -6,7 +6,7 @@ BioTipsには、これまでYCAMバイオ・リサーチで取り組んできた
 - [バイオ・リサーチ・オープンデイ「キッチンからはじめるバイオ」（2016-2017）](https://github.com/YCAMInterlab/BioTIPS/tree/master/2016)
   - [実験プロトコル「オープン・イースト・プロトコルズ」（2016-）](https://github.com/YCAMInterlab/OpenYeastProtocols)
   - ワークショップ「森のDNA図鑑」（2016-）
-  - 共同プロジェクト「ゲノム弁当」（2016-）
+  - [共同プロジェクト「ゲノム弁当」（2016-）](https://github.com/YCAMInterlab/BioTIPS/blob/master/2016/genomebento.md)
 - [インターラボ・キャンプ vol.3「パーソナル・バイオテクノロジー」（2018-2019）](https://github.com/YCAMInterlab/BioTIPS/tree/master/2018)
 
 ### Events
