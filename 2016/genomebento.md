@@ -27,11 +27,11 @@
 ゲノムポップコーン（w/ CRAZY KIOSK POPCORN）  
   
 2017年5月22日〜24日／仙台 [NGS現場の会 第五回研究会](http://www.ngs-field.org/top-page/meeting5/)   
-ゲノム芋煮
-[参考：ogishima SlideShare]（https://www.slideshare.net/ogishima/ngs-76361919）
+ゲノム芋煮  
+[参考：ogishima SlideShare](https://www.slideshare.net/ogishima/ngs-76361919)
 
 ### 2016
 2016年12月10日〜11日／山口 [YCAMバイオ・リサーチ・オープンデイ vol.5 「生物とプログラミング」](https://www.ycam.jp/events/2016/ycam-bio-research-open-day-vol5/)   
-ゲノム弁当（w/ 津田多江子/YAMA KITCHEN、中谷敦子/CHEERS!） 
-[参考：YAMA KITCHEN ブログ](https://yamakitchen2015.tumblr.com/post/155990177503/ゲノム弁当香りの相性を愉しむお弁当)
-[参考：TogoWiki GenomeBentoProject](https://wiki.lifesciencedb.jp/mw/GenomeBentoProject) 
+ゲノム弁当（w/ 津田多江子/YAMA KITCHEN、中谷敦子/CHEERS!）  
+[参考：YAMA KITCHEN ブログ](https://yamakitchen2015.tumblr.com/post/155990177503/ゲノム弁当香りの相性を愉しむお弁当)  
+[参考：TogoWiki GenomeBentoProject](https://wiki.lifesciencedb.jp/mw/GenomeBentoProject)   
