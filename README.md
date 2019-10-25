@@ -8,6 +8,7 @@ BioTipsには、これまでYCAMバイオ・リサーチで取り組んできた
   - ワークショップ「森のDNA図鑑」（2016-）
   - [共同プロジェクト「ゲノム弁当」（2016-）](https://github.com/YCAMInterlab/BioTIPS/blob/master/2016/genomebento.md)
 - [インターラボ・キャンプ vol.3「パーソナル・バイオテクノロジー」（2018-2019）](https://github.com/YCAMInterlab/BioTIPS/tree/master/2018)
+- リサーチ・ショーケース（2019-2020）
 
 ### Events
 - Lecture series: Agri Bio Kitchen (2015-2016)
@@ -16,7 +17,7 @@ BioTipsには、これまでYCAMバイオ・リサーチで取り組んできた
   - Workshop: How to Make the Field Guide "DNA of Forests" (2016-)
   - Joint Project: "Genome Bento" (2016-)
 - [InterLab Camp vol.3 "Personal Biotechnology" (2018-2019)](https://github.com/YCAMInterlab/BioTIPS/blob/master/2018/readme_en.md)
-
+- Research Showcase (2019-2020)
 
 #### ライセンスとクレジット
 <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" alt="クリエイティブ・コモンズ・ライセンス" src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
