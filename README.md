@@ -3,7 +3,7 @@ BioTipsには、これまでYCAMバイオ・リサーチで取り組んできた
 
 ### 企画
 - レクチャーシリーズ「アグリ・バイオ・キッチン ―『食べる』のリテラシー」（2015-2016）
-- [バイオ・リサーチ・オープンデイ「キッチンからはじめるバイオ」（2016-2017）](https://github.com/YCAMInterlab/BioTIPS/tree/master/2016)
+- [オープンデイ「キッチンからはじめるバイオ」（2016-2017）](https://github.com/YCAMInterlab/BioTIPS/tree/master/2016)
   - [実験プロトコル「オープン・イースト・プロトコルズ」（2016-）](https://github.com/YCAMInterlab/OpenYeastProtocols)
   - ワークショップ「森のDNA図鑑」（2016-）
   - [共同プロジェクト「ゲノム弁当」（2016-）](https://github.com/YCAMInterlab/BioTIPS/blob/master/2016/genomebento.md)
@@ -13,7 +13,7 @@ BioTipsには、これまでYCAMバイオ・リサーチで取り組んできた
 
 ### Events
 - Lecture series: Agri Bio Kitchen (2015-2016)
-- Bio Research Open Day "Biotechnology From Your Kitchen" (2016-2017)
+- Open Day "Biotechnology From Your Kitchen" (2016-2017)
   - Protocol: "Open Yeast Protocols" (2016-)
   - Workshop: How to Make the Field Guide "DNA of Forests" (2016-)
   - Joint Project: "Genome Bento" (2016-)
