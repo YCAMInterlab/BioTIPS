@@ -8,7 +8,7 @@ BioTipsには、これまでYCAMバイオ・リサーチで取り組んできた
   - ワークショップ「森のDNA図鑑」（2016-）
   - [共同プロジェクト「ゲノム弁当」（2016-）](https://github.com/YCAMInterlab/BioTIPS/blob/master/2016/genomebento.md)
 - [インターラボ・キャンプ vol.3「パーソナル・バイオテクノロジー」（2018-2019）](https://github.com/YCAMInterlab/BioTIPS/tree/master/2018)
-- リサーチ・ショーケース（2019-2020）
+- [リサーチ・ショーケース（2019-2020）](https://github.com/YCAMInterlab/BioTIPS/tree/master/2019)
 - 展覧会「wow, see you in the next life.／過去と未来、不確かな情報についての考察」（2019-2020）
 
 ### Events
