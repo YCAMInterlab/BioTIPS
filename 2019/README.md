@@ -5,3 +5,4 @@
 
 - [vol.1「身体と遺伝」](https://github.com/YCAMInterlab/BioTIPS/blob/master/2019/1_bodyandgenetics.md)  
 - [vol.2「森と庭のDNA」](https://github.com/YCAMInterlab/BioTIPS/blob/master/2019/2_dnaofforestsplus.md)    
+- [vol.3「遺伝の解析」](https://github.com/YCAMInterlab/BioTIPS/blob/master/2019/3_analysisofgenetics.md) 
