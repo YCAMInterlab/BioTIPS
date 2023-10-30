@@ -3,13 +3,13 @@ BioTipsには、これまでYCAMバイオ・リサーチで取り組んできた
 
 ### 企画
 - レクチャーシリーズ「アグリ・バイオ・キッチン ―『食べる』のリテラシー」（2015-2016）
-- [オープンデイ「キッチンからはじめるバイオ」（2016-2017）](https://github.com/YCAMInterlab/BioTIPS/tree/master/2016)
+- [オープンデイ「キッチンからはじめるバイオ」（2016-2017）](2016)
   - 実験プロトコル「オープン・イースト・プロトコルズ」（2016-）[別リポジトリ](https://github.com/YCAMInterlab/OpenYeastProtocols)
   - ワークショップ「森のDNA図鑑」（2016-）[別リポジトリ](https://github.com/YCAMInterlab/dna-of-forests)
-  - [共同プロジェクト「ゲノム弁当」（2016-）](https://github.com/YCAMInterlab/BioTIPS/blob/master/2016/genomebento.md)
+  - [共同プロジェクト「ゲノム弁当」（2016-）](2016/genomebento.md)
 - 国際コンソーシアム「MetaSUB グローバル・シティ・サンプリング・デイ」（2017-） 
-- [インターラボ・キャンプ vol.3「パーソナル・バイオテクノロジー」（2018-2019）](https://github.com/YCAMInterlab/BioTIPS/tree/master/2018)
-- [リサーチ・ショーケース（2019-2020）](https://github.com/YCAMInterlab/BioTIPS/tree/master/2019)
+- [インターラボ・キャンプ vol.3「パーソナル・バイオテクノロジー」（2018-2019）](2018)
+- [リサーチ・ショーケース（2019-2020）](2019)
 - 展覧会「wow, see you in the next life.／過去と未来、不確かな情報についての考察」（2019-2020）
 
 ### Events
@@ -18,7 +18,7 @@ BioTipsには、これまでYCAMバイオ・リサーチで取り組んできた
   - Protocol: "Open Yeast Protocols" (2016-)
   - Workshop: How to Make the Field Guide "DNA of Forests" (2016-)
   - Joint Project: "Genome Bento" (2016-)
-- [MetaSUB International Consortium: Global City Sampling Day (2017-)](2017/readme_en)
+- [MetaSUB International Consortium: Global City Sampling Day (2017-)](2017/readme_en.md)
 - [InterLab Camp vol.3 "Personal Biotechnology" (2018-2019)](2018/readme_en.md)
 - Research Showcase (2019-2020)
 - Exhibition "wow, see you in the next life. / studies on uncertain information from the future and the past" (2019-2020)
