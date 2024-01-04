@@ -11,6 +11,7 @@ BioTipsには、これまでYCAMバイオ・リサーチで取り組んできた
 - [インターラボ・キャンプ vol.3「パーソナル・バイオテクノロジー」（2018-2019）](2018)
 - [リサーチ・ショーケース（2019-2020）](2019)
 - 展覧会「wow, see you in the next life.／過去と未来、不確かな情報についての考察」（2019-2020）
+- 展覧会「The Flavour of Power ― 紛争、政治、倫理、歴史を通して食をどう捉えるか？」（2022-2023）
 
 ### Events
 - Lecture series: Agri Bio Kitchen (2015-2016)
@@ -22,6 +23,7 @@ BioTipsには、これまでYCAMバイオ・リサーチで取り組んできた
 - [InterLab Camp vol.3 "Personal Biotechnology" (2018-2019)](2018/readme_en.md)
 - Research Showcase (2019-2020)
 - Exhibition "wow, see you in the next life. / studies on uncertain information from the future and the past" (2019-2020)
+- Exhibition "The Flavour of Power — Food is seen through conflict, politics, ethics and history" (2022-2023)
 
 #### ライセンスとクレジット
 <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" alt="クリエイティブ・コモンズ・ライセンス" src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
