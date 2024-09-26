@@ -19,7 +19,7 @@ BioTipsには、これまでYCAMバイオ・リサーチで取り組んできた
   - Protocol: "Open Yeast Protocols" (2016-)
   - Workshop: How to Make the Field Guide "DNA of Forests" (2016-)
   - Joint Project: "Genome Bento" (2016-)
-- [MetaSUB International Consortium: Global City Sampling Day (2017-)](2017/metasub/readme_en.md)
+- MetaSUB International Consortium: Global City Sampling Day (2017-)
 - [InterLab Camp vol.3 "Personal Biotechnology" (2018-2019)](2018/readme_en.md)
 - Research Showcase (2019-2020)
 - Exhibition "wow, see you in the next life. / studies on uncertain information from the future and the past" (2019-2020)
