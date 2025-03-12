@@ -42,12 +42,6 @@
   
 #### Example Procedure
 
-1. <strong>Collect resident skin bacteria by wiping human body areas such as the armpits with pieces of cotton cloth.​</strong>
-
-    a) Prepare sterilized gauze cut into 3–5 cm squares.​  
-  
-    b) Collect samples from areas prone to sweating, such as both armpits, around the neck, and soles of the feet.​  
-  
 1. <strong>Prepare agar media (techniques that allow only specific microorganisms to grow from the countless microbial populations present in the environment) to selectively culture bacteria related to odor production among resident bacteria.​</strong>  
   
     a) Purchase reagents for culture media (for example, for Staphylococcus species, Vogel-Johnson agar medium, as specified in the consumables list above).​  
@@ -60,7 +54,13 @@
   
     e) When it reaches an appropriate temperature, in a clean bench (for Vogel-Johnson agar medium, use a micropipette to add the specified amount of 1% potassium tellurite solution), dispense 20 mL each into Petri dishes.​  
   
-    f) Let stand at room temperature until the agar solidifies.​  
+    f) Let stand at room temperature until the agar solidifies.​
+  
+1. <strong>Collect resident skin bacteria by wiping human body areas such as the armpits with pieces of cotton cloth.​</strong>
+
+    a) Prepare sterilized gauze cut into 3–5 cm squares.​  
+  
+    b) Collect samples from areas prone to sweating, such as both armpits, around the neck, and soles of the feet.​  
   
 1. <strong>Prepare multiple Petri dishes containing agar media, place the previously prepared pieces of cotton cloth on them, cover, and incubate at 37°C for 2–3 days to allow only bacteria related to odor production to proliferate.</strong>​  
   
