@@ -25,7 +25,7 @@ BioTipsには、これまでYCAMバイオ・リサーチで取り組んできた
 - Research Showcase (2019-2020)
 - Exhibition "wow, see you in the next life. / studies on uncertain information from the future and the past" (2019-2020)
 - Exhibition "The Flavour of Power — Food is seen through conflict, politics, ethics and history" (2022-2023)
-- Performance and installation "Monument of Odour — Forgotten Eros" (2025)
+- [Performance and installation "Monument of Odour — Forgotten Eros" (2025)](2024/readme_en.md)
 
 #### ライセンスとクレジット
 <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" alt="クリエイティブ・コモンズ・ライセンス" src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
